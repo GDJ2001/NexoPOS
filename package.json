@@ -16,7 +16,7 @@
     "laravel-echo": "^2.2.6",
     "laravel-vite-plugin": "^2.0.1",
     "pusher-js": "^8.4.0",
-    "sass": "^1.94.0",
+    "sass": "^1.94.1",
     "tailwindcss": "^4.1.17",
     "vite": "^7.2.2",
     "vite-plugin-mkcert": "^1.17.9"
