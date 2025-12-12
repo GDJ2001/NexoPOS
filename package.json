@@ -17,7 +17,7 @@
     "laravel-vite-plugin": "^2.0.1",
     "pusher-js": "^8.4.0",
     "sass": "^1.94.2",
-    "tailwindcss": "^4.1.17",
+    "tailwindcss": "^4.1.18",
     "vite": "^7.2.7",
     "vite-plugin-mkcert": "^1.17.9"
   },
